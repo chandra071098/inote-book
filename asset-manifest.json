@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/inote-book/static/css/main.073c9b0a.css",
+    "main.js": "/inote-book/static/js/main.6aed833d.js",
+    "static/js/787.e1e25ce8.chunk.js": "/inote-book/static/js/787.e1e25ce8.chunk.js",
+    "static/media/logo.svg": "/inote-book/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/inote-book/index.html",
+    "main.073c9b0a.css.map": "/inote-book/static/css/main.073c9b0a.css.map",
+    "main.6aed833d.js.map": "/inote-book/static/js/main.6aed833d.js.map",
+    "787.e1e25ce8.chunk.js.map": "/inote-book/static/js/787.e1e25ce8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6aed833d.js"
+  ]
+}
